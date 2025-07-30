@@ -4,7 +4,9 @@
 My Master's Degree final project, predicting the likelihood for a customer to churn, based on data from a fictional telecommunications company, Telco.
 
 ## Tools and Technologies
-
+Python, Pandas, NumPy, MatPlotLib, Seaborn, MinMaxScaler, StandardScaler, SciPy Stats, GridSearchCV, Pipeline, SMOTENC, Random Forest Classifier, 
+Logistic Regression Classifier, Extreme Gradient Boosting Classifier (XGB), Scaled Vector Classifier (SVC), Gaussian Naive Bayes, Confusion Matrix,
+Precision Recall Curve
 
 ## Project Structure
 
