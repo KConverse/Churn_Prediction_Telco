@@ -13,7 +13,8 @@ Precision Recall Curve
 ## How to Run
 1. Clone the repo
 2. Install requirements: 'pip install -r requirements.txt'
-3. Run notebooks in order
+3. Run notebooks in order (Exploratory Data Analysis (EDA), then Build and Test. Test File is there to help showcase a part of the project process,
+   but not necessary for running the project.) 
 
 ## Results
 Using a hyperparameter-tuned logistic regression model with SMOTENC applied, I achieved an 84% class 1 recall score, .8815 ROC-AUC score, and classified 
