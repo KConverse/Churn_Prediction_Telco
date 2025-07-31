@@ -1,7 +1,8 @@
 # Customer Churn Prediction
 
 ## Project Overview
-My Master's Degree final project, predicting the likelihood for a customer to churn, based on data from a fictional telecommunications company, Telco.
+My Master's Degree final project, which predicts the likelihood for a customer to churn, segments them as "low-risk", "moderate-risk", or "high-risk" to churn, and gives
+retention recommendations for each. The customers in this project are based on customers found in data from a fictional telecommunications company, Telco.
 
 ## Tools and Technologies
 Python, Pandas, NumPy, MatPlotLib, Seaborn, MinMaxScaler, StandardScaler, SciPy Stats, GridSearchCV, Pipeline, SMOTENC, Random Forest Classifier, 
@@ -9,6 +10,21 @@ Logistic Regression Classifier, Extreme Gradient Boosting Classifier (XGB), Scal
 Precision Recall Curve
 
 ## Project Structure
+   * requirements.txt - List of packages and dependencies used in my environment for this project.
+     
+   * Telco_dataset.xlsx - Dataset utilized in this project.
+     
+   * MastersCapstoneShowcase_KConverse.pptx - Powerpoint presentation used when presenting/discussing the project.
+     
+   * FinalPaper_KConverse_DATA695 - Final Paper taking the reader through the project from conception to results and future steps.
+     
+   * EDA_Telco_Churn_Project_KConverse.ipynb - Jupyter Notebook of Exploratory Data Analysis done for the project, including some preliminary feature selection
+     and engineering steps.
+   
+   * Churn_Prediction_Model_Build_and_Test_KConverse.ipynb - Jupyter Notebook of the prediction model building and testing process for this project. 
+     
+   * (Test File)_Model_Testing_For_Features.ipynb - Additional testing file added to showcase a part of the model building/feature engineering process,
+     but not necessary for running.
 
 ## How to Run
 1. Clone the repo
