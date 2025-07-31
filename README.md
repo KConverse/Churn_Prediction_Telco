@@ -11,6 +11,9 @@ Precision Recall Curve
 ## Project Structure
 
 ## How to Run
+1. Clone the repo
+2. Install requirements: 'pip install -r requirements.txt'
+3. Run notebooks in order
 
 ## Results
 Using a hyperparameter-tuned logistic regression model with SMOTENC applied, I achieved an 84% class 1 recall score, .8815 ROC-AUC score, and classified 
